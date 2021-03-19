@@ -1,6 +1,5 @@
 ### Hello, I'm Farrel! 👋
 
-- 👋 Hi, I’m @RelYourKing
 - 👀 I’m interested in Front-End & Back-End
 - 🌱 I’m currently learning Lua.
 - 📫 How to reach me [Instagram - @RelYourKingz](instagram.com/relyourkingz)
