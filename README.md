@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Front-End & Back-End
 - 🌱 I’m currently learning Lua.
-- 📫 How to reach me [Gmail - muhammadfarrel0@gmail.com](https://mail.google.com/mail/mu/mp/407/#co)
+- 📫 How to reach me [Gmail - muhammadfarrel0@gmail.com](mailTo:muhammadfarrel0@gmail.com)
 - 😀 Pronounce: He/His
 - ⚡ FunFact: I spend almost 12 Hours for Full-Stack Web Developer Everyday
 
